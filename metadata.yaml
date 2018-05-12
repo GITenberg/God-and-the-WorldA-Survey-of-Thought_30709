@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34767'
     url: http://www.gutenberg.org/2009/agents/34767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30709#God-and-the-WorldA-Survey-of-Thought
 gutenberg_issued: '2009-12-19'
 gutenberg_type: Text
 identifiers:
